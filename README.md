@@ -159,15 +159,14 @@ Regla del equipo: **ningún parámetro entra al modelo sin fuente** (o sin la no
 | Astrid Daniela Martinez Ruiz | SD, datos y experimentos | `modelo/sd_campus.nlogo`, `parametros/`, `experimentos/`, `analisis/` |
 | Camilo Andrés Acosta Bernal  | Documentación y presentación | `docs/articulo/`, `docs/presentacion/`, `figuras/` |
 
-## 11. Cómo citar
 
 > Romero, J., Martinez, A. y Acosta, C. (2026). *Propagación de una enfermedad respiratoria en la comunidad universitaria de la Universidad de los Llanos: simulación basada en agentes y sistemas dinámicos*. Proyecto de Simulación Computacional, Universidad de los Llanos. Repositorio: _URL_.
 
-## 12. Licencia
+## 11. Licencia
 
-Código bajo licencia **MIT** (ver `LICENSE`). El texto del informe y las figuras quedan bajo **CC BY 4.0**, salvo indicación contraria. _(Ajusten si el docente o la universidad exigen otra.)_
+Código bajo licencia **MIT** (ver `LICENSE`). El texto del informe y las figuras quedan bajo **CC BY 4.0**, salvo indicación contraria.
 
-## 13. Referencias principales
+## 12. Referencias principales
 
 Las referencias completas están en `parametros/referencias.bib` y en el artículo. Puntos de partida:
 
