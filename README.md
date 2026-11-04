@@ -1,2 +1,3 @@
 # Propagaci-n-de-una-enfermedad-respiratoria-en-la-comunidad-de-la-Universidad-de-los-Llanos
-enfermedad respiratoria en la Universidad de los Llanos. Evalúa movilidad por el campus, pico de contagios y duración del brote, comparando propagación libre con vacunación y aforos limitados.
+
+Modelo SEIR de propagación de enfermedad respiratoria en la Universidad de los Llanos simulando movilidad por el campus. Evalúa el pico de contagios, duración del brote y compara escenarios libres frente a medidas de vacunación y aforos.
