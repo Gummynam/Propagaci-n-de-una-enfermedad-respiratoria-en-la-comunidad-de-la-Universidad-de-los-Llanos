@@ -2,7 +2,7 @@
 
 Proyecto 8 · Simulación Computacional · Semestre 2026-II
 
-Simulación de la propagación de una enfermedad respiratoria (tipo influenza o COVID-19) entre estudiantes, docentes y trabajadores, con movilidad entre aulas, salas de cómputo, comedor, biblioteca, oficinas y transporte. El modelo principal es **basado en agentes (ABM) en NetLogo o AnyLogic (aún por definir)**; como validación se incluye un modelo de **sistemas dinámicos (SD)** con estructura SEIR multigrupo.
+Simulación de la propagación de una enfermedad respiratoria (tipo influenza o COVID-19) entre estudiantes, docentes y trabajadores, con movilidad entre aulas, salas de cómputo, comedor, biblioteca, oficinas y transporte. El modelo principal es **basado en agentes (ABM) en NetLogo**; como validación se incluye un modelo de **sistemas dinámicos (SD)** con estructura SEIR multigrupo.
 
 - **Entrega y sustentación:** martes 17 de noviembre de 2026
 - **Equipo:** Juan David Romero Villamizar (Modelador ABM)_, Astrid Daniela Martinez Ruiz (SD, datos y experimentos)_, Camilo Andrés Acosta Bernal (Documentación y presentación)_
